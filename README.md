@@ -1,5 +1,5 @@
 ## Hi there 👋
-🚀  **👩‍💻 AI/ML Enthusiast | 🌱 Data Science Practitioner |🔥 Ambitious Full Stack Developer**  
+🚀  **👩‍💻 AI/ML Geek | 🌱 Data Science Practitioner |🔥 Ambitious Full Stack Developer**  
 
 Welcome to my GitHub profile. I possess a deep passion for utilizing the capabilities of Artificial Intelligence, Machine Learning, and Data Science to address significant challenges. Furthermore, I am committed to enhancing my expertise in Full-Stack Development, aiming to create seamless and intelligent applications.  
 
