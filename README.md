@@ -1,4 +1,7 @@
 ## Hi there 👋
+🚀  **👩‍💻 AI/ML Enthusiast | 🌱 Data Science Practitioner |🔥 Ambitious Full Stack Developer,**  
+
+Welcome to my GitHub profile! I am deeply passionate about leveraging the power of Artificial Intelligence, Machine Learning, and Data Science to solve impactful problems, while also developing skills in Full Stack Development to create seamless, intelligent applications.  
 
 <!--
 **AditiKalegaonkar/AditiKalegaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,12 +19,6 @@ Here are some ideas to get you started:
 -->
 
 [![An image of @aditikalegaonkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditikalegaonkar)](https://holopin.io/@aditikalegaonkar)
-
-
-
-🚀 **AI/ML Enthusiast | Data Science Practitioner | Aspiring Full Stack Developer**  
-
-Welcome to my GitHub profile! I am deeply passionate about leveraging the power of Artificial Intelligence, Machine Learning, and Data Science to solve impactful problems, while also developing skills in Full Stack Development to create seamless, intelligent applications.  
 
 ---
 
